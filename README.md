@@ -12,7 +12,7 @@ This analysis looked at the data available for office products.
 
 * This results in 44.3% of Vine reviews being 5 star, while 43.9% of non-Vine reviews were 5 star.
 
-![Alt](Resources/counts.png)
+![Alt](Resources/counts.PNG)
 
 ## Summary
 
